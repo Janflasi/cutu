@@ -1,0 +1,7 @@
+body{
+background-color: antiquewhite;    }
+.caja{
+    padding: 120px;
+    width: 100px;
+    height: 10px solid black ;
+}
