@@ -6,11 +6,26 @@
     <title>Document</title>
 </head>
 <body>
+<<<<<<< HEAD
 
 <div class="jaja"></div>
 <div class="jaja"></div>
 <div class="jaja"></div>
 <div class="jaja"></div>
+=======
+<section>
+
+<div class="caja"></div>
+<div class="caja"></div>
+<div class="caja"></div>
+<div class="caja"></div>
+<div class="caja"></div>
+<div class="caja"></div>
+<div class="caja"></div>
+<div class="caja"></div>
+<div class="caja"></div>
+</section>
+>>>>>>> main
     
 </body>
 </html>
